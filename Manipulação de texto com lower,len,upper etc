@@ -1,0 +1,6 @@
+nome='kaua de carvalho miranda'
+print('O nome com todas as letras maiusculas fica: ', nome.upper())
+print('O nome com todas as letras minusculas fica: ', nome.lower())
+print('O nome contem {}'.format(len(nome.strip())))
+print('Seu nome possui: {}'.format(len(nome)),'letras')
+
